@@ -1,10 +1,10 @@
 <template>
-    <nav class="bg-coolGray-900">
+    <nav class="bg-warmGray-600">
       <div class="container flex items-center justify-between mx-auto">
         <div class="flex items-center space-x-4">
-          <noto:videocassette class="w-16 h-16" />
+          <fa-solid:theater-masks class="w-16 h-16" />
           <p
-            class="text-4xl tracking-wider text-transparent bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 font-extralight bg-clip-text"
+            class="text-4xl tracking-wider text-transparent bg-gradient-to-r from-yellow-500 via-orange-300 to-red-500 font-extralight bg-clip-text"
           >
             Movies<span class="font-bold">DB</span>
           </p>
